@@ -6,6 +6,3 @@ Will add some class works.
 
 Some content
 
-## Local Development
-
-1. Open index.html in your browser
